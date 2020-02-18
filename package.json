@@ -1,0 +1,19 @@
+{
+  "name": "notice",
+  "version": "1.0.0",
+  "description": "\"# notice\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niteshpandeycse/notice.git"
+  },
+  "author": "Nitesh Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niteshpandeycse/notice/issues"
+  },
+  "homepage": "https://github.com/niteshpandeycse/notice#readme"
+}
